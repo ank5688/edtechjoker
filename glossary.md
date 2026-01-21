@@ -4,6 +4,9 @@ Define each term below by writing a paragraph explaining what it is and why it's
 
 ## Web Components
 
+Web Components are a set of APIs created by other developers that can be customized for use on your own website. Web Components make web development much quicker, as you can use something already created by another developer rather than spending time trying to create your own code, when a version of it already exists. 
+*https://developer.mozilla.org/en-US/docs/Web/API/Web_components
+*https://www.webcomponents.org/introduction
 
 ## Lit
 
